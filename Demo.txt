@@ -1,0 +1,268 @@
+What is GIT ? 
+why is is its requried ? 
+how to use it ? 
+
+
+How push
+pull 
+commit 
+statsh 
+create branch 
+delete branch 
+novigate one breanh ot other 
+to  configure the email id , password
+
+clone application  
+
+
+Abi 		: Login with logical 
+				1-2-
+				10000 page 
+bharath 	: registraction 
+Chandu 		: Accrount crestion 
+sindu 		: withdraw 
+bindu 		: Check balance 
+
+	PEN DRIVE ? 
+	CD ? 
+	Post?
+						Hub : storage 
+									Source Code Managment (SCM ) : GIT 
+  
+						Space: Reposotory 
+									Facebook 
+										10000 page 
+										200 page 
+										100 page 
+
+
+CLone 
+Facebook 
+				10000 page 
+				200 page 
+				100 page 
+
+
+
+
+https://github.com/signup
+		Please try to register and login : 
+				either from company id or personal id 
+
+
+
+thaneshwaramanjunatha@gmail.com
+passewordadsda
+
+
+			Home page 
+
+					REPOSITORY 
+
+							Oprion called NEW 
+								
+				
+
+
+					This spacr is the storage for us store the project 
+
+how can we push the code ? 
+
+	https://git-scm.com/downloads
+
+	download and install ....!
+
+	Just to confirm 
+		got to windwo ---> Search ----> Git bash
+		C:\Users\THANESH\OneDrive\Desktop\techMB5>git
+
+
+
+
+				git init		: har :in this folder , we are inform ing or we are instillingig the to psh the code 
+  				git add README.md
+						git add Demo.txt
+						git add . : current folder 
+  				git commit -m "first commit"
+  				git branch -M main
+  				git remote add origin https://github.com/Thaneshwara848/TechmehindraB5.git
+  				git push -u origin main
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+basics Core java
+JDBC 
+Servlet 
+	html 
+	css
+	Bootstracp 
+SQL
+JSP : 
+		1 ) What is JSP ? 
+		2 ) Why we are using ? 
+		3 ) diff btwn servlet / jsp ? 
+		4 ) Default Inplet object  : 9 obj 
+		5 ) JSP tags: 
+			explaing : 
+					Declaration tag 
+					Screplet tag 
+					Expression tag 
+
+			in next 15 minuts : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	datatypes : 
+		int , number, varchar , char , boolean, date 
+	Conbstrient : 
+		primary key , Unique , not null, default , check
+	Types of SQL cmds 
+		DDL : Drop , rename , Create, Alter, Truncate 
+		DML : Update, insert , delete 
+		DRL : Select 
+		DCL : Grant , Revoke 
+		TCL : Commit, rollback 
+	Joins : 	
+		FIll join, inner join , left join , Right join 
+	View : 
+	Some operatrs : and , or , not , between , in , orderby,
+			having , group by 
+				
+
+	
+create table EMployee
+(
+	ID int primary key,
+	NAME varchar(10) not null,
+	AGE number(3)check (age < 100),
+	Salary int check(salary > 25000),
+	Designation varchar(10) default 'GET',
+	PAN varchar(10) unique,
+	
+);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		Install / raise a ticket to Install 
+
+
+1 )JDK  17/18/19 : ( https://download.oracle.com/java/17/archive/jdk-17.0.9_windows-x64_bin.exe  ) 
+
+2)Eclips  J2 EE version : https://www.eclipse.org/downloads/packages/release/helios/sr1/eclipse-ide-java-ee-developers
+
+3)Mysql 5 or latest : 
+
+4)Node Js : https://nodejs.org/en/download
+
+5)Post man : API testing :( https://www.postman.com/downloads/ )
+
+6)STS : 3+ or 4 or latest : https://spring.io/tools  
+
+7) Tomcat 7/8/9/10 (Just download but dont installed )----------> manadtory (Dont install )
+
+ 
+
+
+
+
+
+WAP in JAVA 
+
+	1) palindrom number or not 
+	2)revrse the string and number 
+	3) max of 3 number 
+	4) Arrays : 
+			,1,4,56,7,3,2,5,67,7
+			
+			1) max
+			2)min 
+			3) avg of all the numbers 
+			4) sum of all the number 
+			5) count how many numbers in array 
+			6) Second largest
+
+
+
+

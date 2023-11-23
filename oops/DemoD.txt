@@ -1,0 +1,15 @@
+basics 
+Oops 
+	class & Object 
+	Inheritance and its type 
+	Polymorphism and its tryp 
+					static / final 
+	Abstraction : 
+		hiding the implementation  ? 
+			how to hide the data  ? 
+				2 ways : 
+					1) abstyarct class 
+					2) Interface 
+
+	Encupulation : 
+		hiding the data into single unit 
