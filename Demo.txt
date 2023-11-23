@@ -91,6 +91,8 @@ how can we push the code ?
 
 
 
+>git pull
+
 
 		
 
